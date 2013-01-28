@@ -2,6 +2,7 @@
 #define CATEGORYDIALOG_H
 
 #include <QtGui>
+// Test
 
 class CategoryDialog : public QDialog
 {
